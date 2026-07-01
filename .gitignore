@@ -1,0 +1,4 @@
+*.safetensors
+*.h5
+*.zip
+.env
